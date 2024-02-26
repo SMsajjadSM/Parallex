@@ -1,31 +1,48 @@
-# Simple Tailwind CSS Starter
 
-This is an extremley simple setup to develop Tailwind projects. This will be used in my Tailwind From Scratch course.
+# Dice Game
+## This Game Have New Experience!!
 
-## Usage
 
-Install dependencies
+[Demo of Dice game](https://smsajjadsm.github.io/Dice-Game/)
+===
+![plot](./img/1.png)
+![plot](./img/2.png)
 
+
+
+
+
+## Features
+
+- Whoever reaches 100 points wins
+- New game start after each round
+- Save the dice score
+- The ability to roll dice and save your points
+
+
+
+
+
+
+## Installation
+
+
+First clone project ...
+
+```sh
+https://github.com/SMsajjadSM/Dice-Game.git
 ```
-npm install
+
+Install the dependencies and devDependencies
+
+```sh
+npm i
 ```
 
-Run Tailwind CLI in watch mode
 
-```
-npm run watch
-```
+#### How to support?
+ If you enjoyed and used this post,
+I would appreciate it if you could
+support me by giving me a ⭐
 
-You can use tailwind classes in any .html files in the root directory
-
-Put any custom CSS that you may have in the **input.css** file
-
-Add any config values to the **tailwind.config.js** file
-
-To build once, run
-
-```
-npm run build
-```
-
-You only need to deploy your html files and css/style.css
+[SMsajjadSM](https://github.com/SMsajjadSM/Dice-Game)
