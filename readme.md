@@ -1,6 +1,6 @@
 
 # Parallex website
-## This Game Have New Experience!!
+## This Wbsite Have New Experience!!
 
 
 [Demo of Dice game](https://smsajjadsm.github.io/Dice-Game/)
@@ -30,7 +30,7 @@
 First clone project ...
 
 ```sh
-https://github.com/SMsajjadSM/Dice-Game.git
+https://github.com/SMsajjadSM/Parallex.git
 ```
 
 Install the dependencies and devDependencies
@@ -45,4 +45,4 @@ npm i
 I would appreciate it if you could
 support me by giving me a ⭐
 
-[SMsajjadSM](https://github.com/SMsajjadSM/Dice-Game)
+[SMsajjadSM](https://github.com/SMsajjadSM/Parallex)
