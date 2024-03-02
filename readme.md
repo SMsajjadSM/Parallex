@@ -14,10 +14,8 @@
 
 ## Features
 
-- Whoever reaches 100 points wins
-- New game start after each round
-- Save the dice score
-- The ability to roll dice and save your points
+- Layered and beautiful user interface
+
 
 
 
