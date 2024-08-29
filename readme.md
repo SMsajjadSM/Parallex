@@ -1,6 +1,6 @@
 
 # Parallex website
-## This Wbsite Have New Experience!!
+## This Website Have New Experience!!
 
 
 [Demo of Parallex](https://smsajjadsm.github.io/Parallex/)
